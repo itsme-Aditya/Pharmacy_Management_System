@@ -24,24 +24,10 @@ Follow these steps to set up the Pharmacy Management System on your Linux machin
 
 ### Step 1: Clone the Repository
 
-Open your terminal and run the following command to clone the repository:
+Open your terminal and run the following command (replace 'repo_url' with url of this repo) to clone the repository:
 
 ```bash
-git clone 'repo_url
-```
-### Step 1: Clone the Repository
-
-Open your terminal and run the following command to clone the repository:
-
-```bash
-git clone 'repo_url
-```
-### Step 1: Clone the Repository
-
-Open your terminal and run the following command to clone the repository:
-
-```bash
-git clone 'repo_url
+git clone 'repo_url'
 ```
 ### Step 2: Change Directory
 
