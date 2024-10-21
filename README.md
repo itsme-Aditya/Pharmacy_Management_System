@@ -11,6 +11,13 @@ The Pharmacy Management System is a simple web application built using Streamlit
 - **Add Orders**: Process orders for drugs and maintain a record of transactions.
 - **View Records**: Easily view all drugs, customers, and orders in a user-friendly interface.
 
+## Key Technologies Used
+
+- **SQLite3**: A lightweight database engine for data storage.
+- **Streamlit**: A Python library for creating web applications easily.
+- **Pandas**: A data analysis library for handling structured data.
+- **Python**: The programming language used to develop the application.
+
 ## Getting Started
 
 Follow these steps to set up the Pharmacy Management System on your Linux machine:
