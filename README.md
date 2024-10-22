@@ -58,7 +58,7 @@ Check if sqlite3 is already available in Python by running:
 ```bash
 python -c "import sqlite3; print(sqlite3.version)"
 ```
-### Step 6: Clone the Repository
+### Step 6: Run the Streamlit Application
 
 Finally, start the Streamlit application:
 
