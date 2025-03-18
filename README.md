@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Pharmacy Management System is a simple web application built using Streamlit, designed to manage drugs, customers, and orders efficiently. It allows users to add drugs, customers, and orders, and view the relevant information easily.
+The Pharmacy Management System is a simple web application built using Streamlit, designed to manage drugs, customers and orders efficiently. It allows users to add drugs, customers, and orders, and view the relevant information easily.
 
 ## Features
 
